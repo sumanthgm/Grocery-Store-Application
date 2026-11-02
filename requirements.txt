@@ -1,0 +1,6 @@
+flask>=3.0
+mysql-connector-python>=9.0
+
+# Development
+pytest>=8.0
+ruff>=0.5
